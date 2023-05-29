@@ -4,17 +4,31 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    Rigidbody2D r2D;
+    Vector3 moveVector;
+
+    [SerializeField] float speed = 3f;
+
+    Animate animate;
+
     // Start is called before the first frame update
-    void Start()
+    private void Awake()
     {
-        
+        r2D = GetComponent<Rigidbody2D>();
+        moveVector = new Vector3();
+        animate = GetComponent<Animate>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        float inputHorizontal = Input.GetAxisRaw("Horizontal");
-        float inputVertical = Input.GetAxisRaw("Vertical");
-        this.transform.position += new Vector3(inputHorizontal * Time.deltaTime, inputVertical * Time.deltaTime, 0);
+        moveVector.x = Input.GetAxisRaw("Horizontal");
+        moveVector.y = Input.GetAxisRaw("Vertical");
+
+        animate.horizontal = moveVector.x;
+
+        moveVector *= speed;
+
+        r2D.velocity = moveVector;
     }
 }
