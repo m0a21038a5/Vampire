@@ -1,0 +1,4699 @@
+fileFormatVersion: 2
+guid: 19ab4f6272179c240938fa691060c596
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeepForest-A1 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b5eaf5135af63468aaa87551cc1dc2
+      internalID: -500583558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61711b8335de4954fa318e180868bd94
+      internalID: -1544101490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c394031220b1124791c843da168557e
+      internalID: -1510468461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffb4ccf997249544905008dacaa79e9
+      internalID: -172941008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd45098feb7b44a9912a1683d5e090
+      internalID: -458862668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3302bcdead909ce4b811e042eb20ac30
+      internalID: 809651012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a172f7e82b5a0469d8089e68c77588
+      internalID: -815130516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c1d5ce0fc6e4d4c8ec0c54a7cbeca6
+      internalID: 2109764140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e800b70f492522b499266292a4070a5c
+      internalID: -1080966259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0795921c83b284ebb42e2aad3f22f9
+      internalID: 1701801391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6608d367457473e44bd4f261c2a7056b
+      internalID: -501159710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe1c8a2bd8399b4ab4630e583b1c287
+      internalID: 1658799013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29292bfa83c5904fb385622140d61ea
+      internalID: -240671990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e968ab0f8220794d9c3be17fa98332a
+      internalID: 802356844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3045c9a32f90c934180ee0d119f25448
+      internalID: -1711586431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 354.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0421ee29198e24fae3d0ed412f1984
+      internalID: 334737766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ad851ecbec08b4bbf02376bfed3497
+      internalID: 1807192032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f68f5021e46fc94c9c9f43b01b89d4e
+      internalID: 75175197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6e0fb92aaae054ab98eecbf98d2a54
+      internalID: 1222512636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e56c65cab737c409e92ed973796016
+      internalID: 1121306040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d586aed960f99e640b0fb56e263fe91f
+      internalID: 1106695109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f76ebab2701884fb1f37f472eb18c7
+      internalID: -1857522365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e49dc02133f38d49ba350d789bbb44e
+      internalID: 230350473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee156e47240b4e04ca91ce4906f864db
+      internalID: -1828983896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990fbe8021ecd40409dbc69c8c8fd2f2
+      internalID: 1214072439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105d550b1f65f04ebf71c625e2d7d8a
+      internalID: -89528683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e64a32c0136e40b462e28343ecc2f
+      internalID: -2084749553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59438aa45c984d34a83a125250b4cd77
+      internalID: -1273262349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de4c5b2394b044789cd52ad4ad356b
+      internalID: 1733052433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74305464dd6f694fa093b86b8ae317c
+      internalID: -1003800288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1af06968a7e4f41bc877751fcef5cb
+      internalID: -181041999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 325.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cca11b70643fe4b83a4a5f2572265f
+      internalID: 1758602939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4aa2a73479e7d4e8b1f9bf707c9e06
+      internalID: 1344171283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a643e3c98566b4292228a7018fdd2c
+      internalID: 1442098671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d8e3b176d2fd74181fe80ec316d9af
+      internalID: 62164712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471862256407dd546a4765cd04f6ea31
+      internalID: -151262292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bfc4c60c9fd2d4c8771390086775dc
+      internalID: 597566340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1642d7f048a58c4492e02ed8204b706
+      internalID: -726713869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd4a14b139a3354c9fcb45849b47070
+      internalID: -447550838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9aa20c2872e124e8f09d1d76634f0e
+      internalID: 1039890066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da0bbaa86c5a6b47885191e3a68c4a2
+      internalID: 631559901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d107ac87e12c5ea438d674c2b6c76786
+      internalID: 808539699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343ddc61da3d84e4ea623058d28a277c
+      internalID: 970434641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51adb956075271943926886a4494f8d5
+      internalID: 636693794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b53361f098e134fae981253307457f
+      internalID: 1003844166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359130a99fe26d04d8ab37780bc67e0e
+      internalID: 1632049935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a993de8edcee2b24e86ba8c427c84dab
+      internalID: -647239157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 296.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e10a77cc58401142981b8a53e5114e9
+      internalID: 418943151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe9f3fb0f8521c46ae30c9363bf342f
+      internalID: 896013939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dde89399835df449cd6e83745e0d28
+      internalID: 1697607801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0964551f5d9704b9ae24c28560d789
+      internalID: -967553525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce4b19cbcf6c59499bd8c877cd4a9ca
+      internalID: 131298559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da74a0ed438a0e41bb3bb54f54d5c1b
+      internalID: -1521027060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fc7a28aa714f24eb274715e77851ef
+      internalID: -676117873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace37a1f7f4daa48a4b326859d3e11c
+      internalID: -120023153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe218274d11df641b93134ecb880d14
+      internalID: 2090664224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae795873d25bf6f45bef89772b7e0fde
+      internalID: 1406061196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5a55ac1121a484c977aed5286905f5
+      internalID: 29578543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efceaaef0889f454a97a899c47c23fc0
+      internalID: 1422502736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56ced7b1f4cce143b729ef68274b1e4
+      internalID: -467233699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d0a2316c43f5d4694048d9975a7e19
+      internalID: -1032784818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c1d8d64a9cca84e9186a9c87932741
+      internalID: 2140947604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03e80cb75174641afd1dff12a7121c
+      internalID: -2120362795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 267.46155
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7c31b4d520df84190b2126098118e2
+      internalID: -1980101635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5463496b74b30ee46bda4be8fc62828d
+      internalID: 1508750103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1f8d50f7d72f346a6be296b38a2ec7
+      internalID: 952259535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0cc0606c0d6d4d8d930a278243fa4
+      internalID: -2114203108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bfef90eb6d4c84fa367d4d117283af
+      internalID: -2143132754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0060ad18be7da74c8661afe24bf50d5
+      internalID: 58194645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ec766cb50f6d049b6dc76e9d35e63e
+      internalID: 560259449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b0e9176cd4456499f3a8f0e72adfc7
+      internalID: 961945847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328d136314e74b84084a93ed6b73882d
+      internalID: 1449619392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea56f5b2347a114b86b429e86ceaf19
+      internalID: 595959460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08fbab08ba72824ba53b32a6c88d6f0
+      internalID: 860081464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643929b548b13554bacf82389cfe8861
+      internalID: -700829348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ea556c38b462a46a02c2e3d1c1ec4b
+      internalID: -957250767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bb29ebd28174642b65be6e7fc7de2e
+      internalID: -1659674548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cab2a8a4cd9084ebf6dcc026643e42
+      internalID: 911637370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c8d1e5b6ac8ea46af5a4b12d636a82
+      internalID: 401227817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 238.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85866c73e1c314846a895b0112f89e89
+      internalID: 1961452489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285ebf6f633757f48bf962c2452798a1
+      internalID: 1505551456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b86266256716914c97696f1847fef08
+      internalID: 375911649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a545f4b10d99aaf4f9d8476617034515
+      internalID: 1359632112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bdb0b922065c84aa6273f3d6ab8e59
+      internalID: 1900873866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8217b8f1d3fbea4389bed4695cbc484
+      internalID: 1304292989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9221c35ca8e66ba40a0ac04d76a48641
+      internalID: 284020464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95912f9070bbfa24e9caf381ba399b68
+      internalID: -787019745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63fd1fe59c905249995e23251c56530
+      internalID: -839535233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0445b6afe98eb9b4baa453cac137bf49
+      internalID: 215039893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fe6de5218083a41b76959fcf4b2f88
+      internalID: 789081971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51afb2e6685901f449b725b8abcad697
+      internalID: -537866743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4d80fcae861974eab861d88e5f8201
+      internalID: -1989853577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b1e796584b3ee4f9178664254ceaf3
+      internalID: 775088260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9f451759b8dc141b5f5f57bca67a7f
+      internalID: 764750024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fe49fdb6570e5409206224b2c9c28c
+      internalID: 1695475743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 209.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5279eedba8e0f4b86cb92dbe614c6b
+      internalID: -397725454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc82008383243d5469789b358a5786c6
+      internalID: 1358727165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6991dc69c94e439168da2eb03fed9
+      internalID: 122977397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cd417cb2979d44da0a194111f1e56f
+      internalID: -1891985541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e562f4225f09b4facfd6a469de824d
+      internalID: 1508183429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fbd062d4a3a4f4fae8eca08f1be174
+      internalID: 416403235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b03f31aa9353874c8c35c81f90f5c2a
+      internalID: 1752047576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066ef4ac1f61ec84d91ad942288a707d
+      internalID: 236074050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492b415d41755434e83df0aaf06c5732
+      internalID: 632236617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc22cc0846774034291e30d31e40bb24
+      internalID: 1717294452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f96437b230d9b64abe13ddf509bfe6c
+      internalID: 1808068389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b82737b9056ad4cb5d15acb4ef7262
+      internalID: -1797758960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f3a9b3f41f28d40bc623abb2cc36ce
+      internalID: 1738338678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b4098936b86642b38fbcf9af967b6
+      internalID: -2139880630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a9368060cacd4db3a26384e4ffcdc
+      internalID: -523493145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0d3d28a5618d1489294c5fce0beb42
+      internalID: -283982455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 180.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622c0aeeb6cf7b4ba7a6ca90eeac3db
+      internalID: -487932907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a0d9a790a74cc42a9cb7e6da2b881f
+      internalID: 710583193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ef07d98c8be740b5f7cc12300feb0
+      internalID: -1793675878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87705c914eaacd448abd9ffd39537668
+      internalID: 1510350983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eed24c260d0074482ef49b4d57c458
+      internalID: 64787880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58b27e84f801564fb9d34d17c0182a3
+      internalID: -2143701990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b9cd7225f3642498f76570ceeaebbb
+      internalID: -1249139319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64934a03e02939b4398ede2fa10b5eb2
+      internalID: 1359785581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e2ccfd984543349a712765e923327e
+      internalID: -1934894275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72692859a64fcd444add4ff24299a5c6
+      internalID: 1768444417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7ec68766ef0a4b9b5f97689d6e9c7
+      internalID: 1807317551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894be29d93f16b3408c524340df8aace
+      internalID: 1666007417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9c25d3fd1ee7b45bce6cac00e0c7a8
+      internalID: 1007919526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32293c6b0520b84eb4f799b1d579ab8
+      internalID: 760512021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4728ac4792360647ac632a83fa8631f
+      internalID: -1288494579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2ef96e84423604a91848a4b2410eef
+      internalID: -1687182594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 151.46153
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37dece0d09416b4db7f9756c439ad4a
+      internalID: -911320666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c206a380b6ac76245add5c2d066227fb
+      internalID: 1780179862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58a62d7b1076fd43a9e24c32ea00eb2
+      internalID: 255483708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f55ec5f79af9e45befcae04cc95675
+      internalID: 107645356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cc8e0ff7c727149b086ee27f8d46c6
+      internalID: 1946343700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254853e3c0bdc347ad05220fb8327ad
+      internalID: -1245830462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45870a0de6220fe4e9276e7c9e5676b0
+      internalID: 2006316901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b4ca45a9cb1c443b1e6d607facd944
+      internalID: 1708406126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020265d052ca231498aa3d99a68d52ec
+      internalID: 1733855042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee61835f989a73428195f8e619daa6f
+      internalID: 522029250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4764305d8f2134d47a46f53528c2821d
+      internalID: 1398613069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34162e0e87ab6a942baab05698cab76a
+      internalID: 298749348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279e4fd25f42fda45bfe58a202ca7636
+      internalID: -1337927058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85443a3620e395b49b36b3813ac49ef9
+      internalID: 319387436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc5840a4a1e690419e3f426475196fd
+      internalID: -1724068337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74cc10825715f043aab64a11a3b339c
+      internalID: -788791430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 122.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38db5e75c84f72842a0663341d042d48
+      internalID: 417202040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcca2d35e01d95e4d97fb9cac548569a
+      internalID: -1486110158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000c78cd8e8cc234c932fbf57968bc34
+      internalID: -547620653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a111edce24ac944b4d3b2bbb7afb2a
+      internalID: 908231844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c5f2654e362aa4f909582bf2fab235
+      internalID: -713038501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d244ba3e710544c8862f3a979b0663
+      internalID: 5701314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a180cbba5432304f8a3ed180384a34d
+      internalID: -1323864751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841ef94cce324d042a21b6f8e417e638
+      internalID: -1129697136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caaac6dc638aeb49bc4c6b17a606eb2
+      internalID: 1697133995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd98a2b7c2e00b42887f4430dc4dd43
+      internalID: -975094983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d294a9050230c448cedf6bc00c433b
+      internalID: -1171790908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02cae7c490afa4409462f649fd66f31
+      internalID: 2059247311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaec3a4fb20f61e459271d58faba5666
+      internalID: -1338036493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc19e1156e37ae439fb4ddbc34957d6
+      internalID: 884059291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba52335d127efe49a5259e3e8cb0e7e
+      internalID: 2050138017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29cd53ce0c8b740940e02d43f32452
+      internalID: -967131198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 93.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad7031fb49dc9f48a783a9b702c25bd
+      internalID: 1108816050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53333bc5110f558468ace3f8dcaf414e
+      internalID: -1316930525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9edfd1a4305b4483e4cbbd6cfa362
+      internalID: 1900411081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a256e01f4cffc8c478ec772128e3335c
+      internalID: -273151977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa66a80ee7694aa4fa8d1c57fad09c50
+      internalID: -195054968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba02e9036e86496468cab896e2adf218
+      internalID: -1712681671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3749dc6a54b5e94487fa2c44da7ade8
+      internalID: 1128794313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de7bf5a1603f643b8b0e0c8d375d0f
+      internalID: 1322425929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26c21814c880f04cae7261bc1b8ce3b
+      internalID: -1572936197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d8241524fbd3840a6921bd392b9536
+      internalID: 1088347272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5fd26cb74ed384e928972dd4496eeb
+      internalID: 2092279287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c812e35c2408aed49b71bbcbbf79694e
+      internalID: 414841608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e18e9c13e3fc084eb2b6610f6960c71
+      internalID: -996779696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97f8a109e8a95f4bbfcd3cc47d9129c
+      internalID: 1312868661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a45e0d51ebe42f47ac41ed82a62e67d
+      internalID: 317388573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb21910d31754f04fb86c85d0a62618e
+      internalID: 1163887260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62debcf7dbffb04b80060cd5e4bd515
+      internalID: 273398295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e2d6acd47b3d749b3f158401e160dd
+      internalID: -1262716622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c4054fbd05d5489889695cc0f25ad
+      internalID: -1325877693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf167765a3e7cd4bb5872f3dcc5b1ca
+      internalID: -1809071837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a2d105ece9e964f90b86478ffe0a41
+      internalID: 1338538111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af22191c143943c4da0b6b73d0c7afc7
+      internalID: 577560383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa007b7ff2e7b94b9c2d809ef8b25a9
+      internalID: -1823422201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197879fa759901c46ba9739f0b700851
+      internalID: 1566645908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9448a34c2ff784785ce4fc0d2377db
+      internalID: 2036886961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c27f8b4d673d14089ce75310ceb0ba
+      internalID: -666679383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce430ed8dcb2b0f4f9e41487669108bb
+      internalID: 1503197084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984de36ab1d5af438be4b9e54c6293c
+      internalID: 1103637713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17c120a772f404e90e593acd4fe122
+      internalID: -1103222956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6e4ad4c0aee19489f891e80d0bda56
+      internalID: 159702953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8415feeabb9e8794cb098793bc5583d8
+      internalID: -1360575228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d182c57b9ae74a9fbbdf7a522193c
+      internalID: 227313904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 35.46154
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ceec903a919341b3f239ff9213694
+      internalID: 165732768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c024c9cbc17da46975a7f846c29ee3
+      internalID: -525002643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68ac8c4c3d444f44a46ab99a6527fa7
+      internalID: -1871191042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa9d156483fed141bd95a005402c129
+      internalID: 1657641044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b4fac6e91a1b344af05a08feca1d55
+      internalID: 861860297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebca695c6d98f0b47af25c63e3d358c4
+      internalID: 1186432917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f402e5e4da41bbc46a5fa9521dfaf448
+      internalID: -1854639135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcb0dd920338bf4dbf73a2f2cde97e0
+      internalID: 2118916576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f931bafb574bd4a48882bcb45bd1f083
+      internalID: 737319515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6fe3909173e84409474f552b31aec7
+      internalID: 1671830754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5427b1d5a7ab8b44297d6d252253a9c7
+      internalID: -982542613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646dd4a4f73afdb468f73093fec386be
+      internalID: 175386768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a1879f9cf8db46b550a2d24dbeec2
+      internalID: -1389222728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db46e9404903e304bae6bfb3e761cbb5
+      internalID: 3843684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1415bf7f503fe184eaeb995f9e5ecf61
+      internalID: -1104015321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820b086c5085c745a1ea4a513c27415
+      internalID: -927751880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepForest-A1 1_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6.4615383
+        width: 32
+        height: 29.538462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e78d31b6dabb9c4aaf559afbb247afe
+      internalID: -964750480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DeepForest-A1 1_0: -500583558
+      DeepForest-A1 1_1: -1544101490
+      DeepForest-A1 1_10: -501159710
+      DeepForest-A1 1_100: 416403235
+      DeepForest-A1 1_101: 1752047576
+      DeepForest-A1 1_102: 236074050
+      DeepForest-A1 1_103: 632236617
+      DeepForest-A1 1_104: 1717294452
+      DeepForest-A1 1_105: 1808068389
+      DeepForest-A1 1_106: -1797758960
+      DeepForest-A1 1_107: 1738338678
+      DeepForest-A1 1_108: -2139880630
+      DeepForest-A1 1_109: -523493145
+      DeepForest-A1 1_11: 1658799013
+      DeepForest-A1 1_110: -283982455
+      DeepForest-A1 1_111: -487932907
+      DeepForest-A1 1_112: 710583193
+      DeepForest-A1 1_113: -1793675878
+      DeepForest-A1 1_114: 1510350983
+      DeepForest-A1 1_115: 64787880
+      DeepForest-A1 1_116: -2143701990
+      DeepForest-A1 1_117: -1249139319
+      DeepForest-A1 1_118: 1359785581
+      DeepForest-A1 1_119: -1934894275
+      DeepForest-A1 1_12: -240671990
+      DeepForest-A1 1_120: 1768444417
+      DeepForest-A1 1_121: 1807317551
+      DeepForest-A1 1_122: 1666007417
+      DeepForest-A1 1_123: 1007919526
+      DeepForest-A1 1_124: 760512021
+      DeepForest-A1 1_125: -1288494579
+      DeepForest-A1 1_126: -1687182594
+      DeepForest-A1 1_127: -911320666
+      DeepForest-A1 1_128: 1780179862
+      DeepForest-A1 1_129: 255483708
+      DeepForest-A1 1_13: 802356844
+      DeepForest-A1 1_130: 107645356
+      DeepForest-A1 1_131: 1946343700
+      DeepForest-A1 1_132: -1245830462
+      DeepForest-A1 1_133: 2006316901
+      DeepForest-A1 1_134: 1708406126
+      DeepForest-A1 1_135: 1733855042
+      DeepForest-A1 1_136: 522029250
+      DeepForest-A1 1_137: 1398613069
+      DeepForest-A1 1_138: 298749348
+      DeepForest-A1 1_139: -1337927058
+      DeepForest-A1 1_14: -1711586431
+      DeepForest-A1 1_140: 319387436
+      DeepForest-A1 1_141: -1724068337
+      DeepForest-A1 1_142: -788791430
+      DeepForest-A1 1_143: 417202040
+      DeepForest-A1 1_144: -1486110158
+      DeepForest-A1 1_145: -547620653
+      DeepForest-A1 1_146: 908231844
+      DeepForest-A1 1_147: -713038501
+      DeepForest-A1 1_148: 5701314
+      DeepForest-A1 1_149: -1323864751
+      DeepForest-A1 1_15: 334737766
+      DeepForest-A1 1_150: -1129697136
+      DeepForest-A1 1_151: 1697133995
+      DeepForest-A1 1_152: -975094983
+      DeepForest-A1 1_153: -1171790908
+      DeepForest-A1 1_154: 2059247311
+      DeepForest-A1 1_155: -1338036493
+      DeepForest-A1 1_156: 884059291
+      DeepForest-A1 1_157: 2050138017
+      DeepForest-A1 1_158: -967131198
+      DeepForest-A1 1_159: 1108816050
+      DeepForest-A1 1_16: 1807192032
+      DeepForest-A1 1_160: -1316930525
+      DeepForest-A1 1_161: 1900411081
+      DeepForest-A1 1_162: -273151977
+      DeepForest-A1 1_163: -195054968
+      DeepForest-A1 1_164: -1712681671
+      DeepForest-A1 1_165: 1128794313
+      DeepForest-A1 1_166: 1322425929
+      DeepForest-A1 1_167: -1572936197
+      DeepForest-A1 1_168: 1088347272
+      DeepForest-A1 1_169: 2092279287
+      DeepForest-A1 1_17: 75175197
+      DeepForest-A1 1_170: 414841608
+      DeepForest-A1 1_171: -996779696
+      DeepForest-A1 1_172: 1312868661
+      DeepForest-A1 1_173: 317388573
+      DeepForest-A1 1_174: 1163887260
+      DeepForest-A1 1_175: 273398295
+      DeepForest-A1 1_176: -1262716622
+      DeepForest-A1 1_177: -1325877693
+      DeepForest-A1 1_178: -1809071837
+      DeepForest-A1 1_179: 1338538111
+      DeepForest-A1 1_18: 1222512636
+      DeepForest-A1 1_180: 577560383
+      DeepForest-A1 1_181: -1823422201
+      DeepForest-A1 1_182: 1566645908
+      DeepForest-A1 1_183: 2036886961
+      DeepForest-A1 1_184: -666679383
+      DeepForest-A1 1_185: 1503197084
+      DeepForest-A1 1_186: 1103637713
+      DeepForest-A1 1_187: -1103222956
+      DeepForest-A1 1_188: 159702953
+      DeepForest-A1 1_189: -1360575228
+      DeepForest-A1 1_19: 1121306040
+      DeepForest-A1 1_190: 227313904
+      DeepForest-A1 1_191: 165732768
+      DeepForest-A1 1_192: -525002643
+      DeepForest-A1 1_193: -1871191042
+      DeepForest-A1 1_194: 1657641044
+      DeepForest-A1 1_195: 861860297
+      DeepForest-A1 1_196: 1186432917
+      DeepForest-A1 1_197: -1854639135
+      DeepForest-A1 1_198: 2118916576
+      DeepForest-A1 1_199: 737319515
+      DeepForest-A1 1_2: -1510468461
+      DeepForest-A1 1_20: 1106695109
+      DeepForest-A1 1_200: 1671830754
+      DeepForest-A1 1_201: -982542613
+      DeepForest-A1 1_202: 175386768
+      DeepForest-A1 1_203: -1389222728
+      DeepForest-A1 1_204: 3843684
+      DeepForest-A1 1_205: -1104015321
+      DeepForest-A1 1_206: -927751880
+      DeepForest-A1 1_207: -964750480
+      DeepForest-A1 1_21: -1857522365
+      DeepForest-A1 1_22: 230350473
+      DeepForest-A1 1_23: -1828983896
+      DeepForest-A1 1_24: 1214072439
+      DeepForest-A1 1_25: -89528683
+      DeepForest-A1 1_26: -2084749553
+      DeepForest-A1 1_27: -1273262349
+      DeepForest-A1 1_28: 1733052433
+      DeepForest-A1 1_29: -1003800288
+      DeepForest-A1 1_3: -172941008
+      DeepForest-A1 1_30: -181041999
+      DeepForest-A1 1_31: 1758602939
+      DeepForest-A1 1_32: 1344171283
+      DeepForest-A1 1_33: 1442098671
+      DeepForest-A1 1_34: 62164712
+      DeepForest-A1 1_35: -151262292
+      DeepForest-A1 1_36: 597566340
+      DeepForest-A1 1_37: -726713869
+      DeepForest-A1 1_38: -447550838
+      DeepForest-A1 1_39: 1039890066
+      DeepForest-A1 1_4: -458862668
+      DeepForest-A1 1_40: 631559901
+      DeepForest-A1 1_41: 808539699
+      DeepForest-A1 1_42: 970434641
+      DeepForest-A1 1_43: 636693794
+      DeepForest-A1 1_44: 1003844166
+      DeepForest-A1 1_45: 1632049935
+      DeepForest-A1 1_46: -647239157
+      DeepForest-A1 1_47: 418943151
+      DeepForest-A1 1_48: 896013939
+      DeepForest-A1 1_49: 1697607801
+      DeepForest-A1 1_5: 809651012
+      DeepForest-A1 1_50: -967553525
+      DeepForest-A1 1_51: 131298559
+      DeepForest-A1 1_52: -1521027060
+      DeepForest-A1 1_53: -676117873
+      DeepForest-A1 1_54: -120023153
+      DeepForest-A1 1_55: 2090664224
+      DeepForest-A1 1_56: 1406061196
+      DeepForest-A1 1_57: 29578543
+      DeepForest-A1 1_58: 1422502736
+      DeepForest-A1 1_59: -467233699
+      DeepForest-A1 1_6: -815130516
+      DeepForest-A1 1_60: -1032784818
+      DeepForest-A1 1_61: 2140947604
+      DeepForest-A1 1_62: -2120362795
+      DeepForest-A1 1_63: -1980101635
+      DeepForest-A1 1_64: 1508750103
+      DeepForest-A1 1_65: 952259535
+      DeepForest-A1 1_66: -2114203108
+      DeepForest-A1 1_67: -2143132754
+      DeepForest-A1 1_68: 58194645
+      DeepForest-A1 1_69: 560259449
+      DeepForest-A1 1_7: 2109764140
+      DeepForest-A1 1_70: 961945847
+      DeepForest-A1 1_71: 1449619392
+      DeepForest-A1 1_72: 595959460
+      DeepForest-A1 1_73: 860081464
+      DeepForest-A1 1_74: -700829348
+      DeepForest-A1 1_75: -957250767
+      DeepForest-A1 1_76: -1659674548
+      DeepForest-A1 1_77: 911637370
+      DeepForest-A1 1_78: 401227817
+      DeepForest-A1 1_79: 1961452489
+      DeepForest-A1 1_8: -1080966259
+      DeepForest-A1 1_80: 1505551456
+      DeepForest-A1 1_81: 375911649
+      DeepForest-A1 1_82: 1359632112
+      DeepForest-A1 1_83: 1900873866
+      DeepForest-A1 1_84: 1304292989
+      DeepForest-A1 1_85: 284020464
+      DeepForest-A1 1_86: -787019745
+      DeepForest-A1 1_87: -839535233
+      DeepForest-A1 1_88: 215039893
+      DeepForest-A1 1_89: 789081971
+      DeepForest-A1 1_9: 1701801391
+      DeepForest-A1 1_90: -537866743
+      DeepForest-A1 1_91: -1989853577
+      DeepForest-A1 1_92: 775088260
+      DeepForest-A1 1_93: 764750024
+      DeepForest-A1 1_94: 1695475743
+      DeepForest-A1 1_95: -397725454
+      DeepForest-A1 1_96: 1358727165
+      DeepForest-A1 1_97: 122977397
+      DeepForest-A1 1_98: -1891985541
+      DeepForest-A1 1_99: 1508183429
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

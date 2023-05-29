@@ -1,0 +1,1487 @@
+fileFormatVersion: 2
+guid: 74bf88ec041fa9941bbd644ef4f92c6b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!PW-Candle01_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27706f4b5bf806f47aa3cbefeea3164a
+      internalID: -804690262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_1'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 448
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405b192939dd7e14f91088114411509a
+      internalID: 1736256848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_2'
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 448
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18535a776bd9ab44ba2af7758abb2099
+      internalID: -142469396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_3'
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 448
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6684b7c752fca4045af306ca64a4ea3b
+      internalID: -769743132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_4'
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 448
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a31df0188c245f4b85d7a6c6582a063
+      internalID: 438301364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_5'
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 448
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cd7f7c53c143749861a1fc2e6db70e
+      internalID: -1003526461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_6'
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 448
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d842764425eb0448a0fc0d005902f3
+      internalID: 854192493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_7'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 448
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839eb14408e6c934c975fbf844d4f7eb
+      internalID: -1648923952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_8'
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 448
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d92989aff15e841a458e54239b60f2
+      internalID: 2072496666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_9'
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 448
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0eb5388b7e35c4fbf27c7f10f3c422
+      internalID: 343632031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_10'
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 448
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b450fde6bdf37c40bbda7bb7b4df6f7
+      internalID: -178309723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_11'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656a329fb107bb440b5ad0fec52e9989
+      internalID: 1293991713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_12'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 384
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0508dfdee433c6c498c972028a3f617e
+      internalID: -903278293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_13'
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 384
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cafde80abb7f004c976f10f41d8ae49
+      internalID: 763857607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_14'
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 384
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469950dbbe86b064a80777eee77e994d
+      internalID: 695848539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_15'
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 384
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20621147a0b7ca489ef35a2c736a9d2
+      internalID: 838573085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_16'
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 384
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e65bff4f021f7346a12a7db7cbce554
+      internalID: 1851347656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_17'
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 384
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4e1e6593b28194f9afdf257f5bfe8e
+      internalID: -751203544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_18'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 384
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5932063eb7f604b4e99ea34eafa4a7d5
+      internalID: -1640664010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_19'
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 384
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1f4adab50d80e4d873fb384a15adc5
+      internalID: -537241397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_20'
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 384
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6423b58739dd98b4e8565bb40f9630b6
+      internalID: -1140443269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_21'
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 384
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc371e46ddfb57249a612a2726b1bf68
+      internalID: 982902977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_22'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ecc5b8a71128e46bd7c084ab0ba91c
+      internalID: -2081612992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_23'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 320
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab511a3f93a8cd04992a668379f556c7
+      internalID: 111195977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_24'
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 320
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9610d47b05bd6904d829e07d5cef7c2b
+      internalID: -2050186599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_25'
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 320
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c870b8b0614b4fba0a0e55376cedf
+      internalID: -1719092344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_26'
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4634f4e919d73443bc037a57e660d96
+      internalID: -813071552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_27'
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 320
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa463a9cdbf3f3f47bc2e364936d1435
+      internalID: 1079438212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_28'
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 320
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfba549bbbb98943b678fea7ea6650c
+      internalID: 1005874080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_29'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 320
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8e9c121671e2847846f86b548f685e
+      internalID: -45035141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_30'
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 320
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8444fd11ab235c4087d2e5ba2dbe98a
+      internalID: -1051253534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_31'
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 320
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513fbbca518ef9e429e0ba733da48d16
+      internalID: -1188881091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_32'
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 320
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be5a3d98a106ed4e984fd319bc4400b
+      internalID: 1311237357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_33'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507d14deee382204c84ea87b4a4f0bf1
+      internalID: -756978297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_34'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 256
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4cac6a9911b5341a49ccf3238cbb01
+      internalID: -1424069345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_35'
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 256
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525784119fbcc2145968f05d352032ac
+      internalID: 282364314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_36'
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 256
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00c18cd5f349014f814ad44604715c8
+      internalID: -820997765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_37'
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 256
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73284f4adb855f845af6777817efbb70
+      internalID: -745787154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_38'
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 256
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129f34367da3fcb44a106b98efb78e92
+      internalID: -757787168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_39'
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 256
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9611f8d5ba4279546bf4035e9535bfec
+      internalID: 2144229577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_40'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 256
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286bae687590c434181dfa87260ac1f6
+      internalID: 106822442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_41'
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 256
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db25c50df9e3324408d24356a7f3b567
+      internalID: -1651139956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_42'
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 256
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f26045dcaa6ece45a47e61284673c15
+      internalID: -395741059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_43'
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 256
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d67ccc5b77f9f438fd37ca27b03e33
+      internalID: -708538160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_44'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a39055b8ca91894c98614e9fe5a022a
+      internalID: 1695308150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_45'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aa6ca989ec42a42b051b746c7eb399
+      internalID: -448481320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_46'
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103aff18f1f71564cac7d964f01240be
+      internalID: -836996863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_47'
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 192
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d5251b4f315a4698d235f3f47fc6a
+      internalID: 1194704586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_48'
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 192
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0d710f32e56574caae542e85ee3397
+      internalID: -1833502523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_49'
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 192
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5fc9394ee2e9a42aa154452e4529d3
+      internalID: 468504677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_50'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209973e8e458c3647965b827cba6735b
+      internalID: -1263302005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_51'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc2f2678d00c704e9d209844caa5101
+      internalID: -353865243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_52'
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 128
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa86f78278df6a4ab674ca35be94736
+      internalID: 1866652819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_53'
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 128
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6936b5b7475472428eec153d4818089
+      internalID: -1703568429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_54'
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 128
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b0fe6fee2e2af429be9d9d6238dc29
+      internalID: -2123504375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_55'
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 128
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4301c0f4d4388894d9bdd25d209d1a64
+      internalID: -1585546198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_56'
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 64
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14945b22c4056054e84b5ef7aa4b72e9
+      internalID: 1823093901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_57'
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc22cc1324d52c4d9d4ebb73fc0429f
+      internalID: -1756967002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_58'
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 64
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee160aba778fcc54ab993bd2ffb3a597
+      internalID: -80118380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_59'
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be96eecaba42cc41860f578ff1ea556
+      internalID: -1555904171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_60'
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7c2ae4df7c9484794559df7cb96dc9
+      internalID: 1352096673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PW-Candle01_61'
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 69.818184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d80a3e703441d045ad328a798a0a895
+      internalID: -1624923653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '!PW-Candle01_0': -804690262
+      '!PW-Candle01_1': 1736256848
+      '!PW-Candle01_10': -178309723
+      '!PW-Candle01_11': 1293991713
+      '!PW-Candle01_12': -903278293
+      '!PW-Candle01_13': 763857607
+      '!PW-Candle01_14': 695848539
+      '!PW-Candle01_15': 838573085
+      '!PW-Candle01_16': 1851347656
+      '!PW-Candle01_17': -751203544
+      '!PW-Candle01_18': -1640664010
+      '!PW-Candle01_19': -537241397
+      '!PW-Candle01_2': -142469396
+      '!PW-Candle01_20': -1140443269
+      '!PW-Candle01_21': 982902977
+      '!PW-Candle01_22': -2081612992
+      '!PW-Candle01_23': 111195977
+      '!PW-Candle01_24': -2050186599
+      '!PW-Candle01_25': -1719092344
+      '!PW-Candle01_26': -813071552
+      '!PW-Candle01_27': 1079438212
+      '!PW-Candle01_28': 1005874080
+      '!PW-Candle01_29': -45035141
+      '!PW-Candle01_3': -769743132
+      '!PW-Candle01_30': -1051253534
+      '!PW-Candle01_31': -1188881091
+      '!PW-Candle01_32': 1311237357
+      '!PW-Candle01_33': -756978297
+      '!PW-Candle01_34': -1424069345
+      '!PW-Candle01_35': 282364314
+      '!PW-Candle01_36': -820997765
+      '!PW-Candle01_37': -745787154
+      '!PW-Candle01_38': -757787168
+      '!PW-Candle01_39': 2144229577
+      '!PW-Candle01_4': 438301364
+      '!PW-Candle01_40': 106822442
+      '!PW-Candle01_41': -1651139956
+      '!PW-Candle01_42': -395741059
+      '!PW-Candle01_43': -708538160
+      '!PW-Candle01_44': 1695308150
+      '!PW-Candle01_45': -448481320
+      '!PW-Candle01_46': -836996863
+      '!PW-Candle01_47': 1194704586
+      '!PW-Candle01_48': -1833502523
+      '!PW-Candle01_49': 468504677
+      '!PW-Candle01_5': -1003526461
+      '!PW-Candle01_50': -1263302005
+      '!PW-Candle01_51': -353865243
+      '!PW-Candle01_52': 1866652819
+      '!PW-Candle01_53': -1703568429
+      '!PW-Candle01_54': -2123504375
+      '!PW-Candle01_55': -1585546198
+      '!PW-Candle01_56': 1823093901
+      '!PW-Candle01_57': -1756967002
+      '!PW-Candle01_58': -80118380
+      '!PW-Candle01_59': -1555904171
+      '!PW-Candle01_6': 854192493
+      '!PW-Candle01_60': 1352096673
+      '!PW-Candle01_61': -1624923653
+      '!PW-Candle01_7': -1648923952
+      '!PW-Candle01_8': 2072496666
+      '!PW-Candle01_9': 343632031
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
