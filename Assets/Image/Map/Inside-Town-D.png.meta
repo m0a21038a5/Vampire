@@ -1,0 +1,4615 @@
+fileFormatVersion: 2
+guid: 6cc5e031c3757d64da8be074a4490fee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inside-Town-D_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953108b731de32842b70712728e21171
+      internalID: -1352212162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beec36d66935a44bb757ee2491fa945
+      internalID: 344458485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8668efd748b0d6a4bae5a6566ff7a20e
+      internalID: 2040417021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83179a5fce448a34c95af9e01d9fd0e3
+      internalID: 1635853577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab15792b3086d14db4745d068e06c22
+      internalID: -1466628188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9690edc6f72cd2141ad3840d6874e3a8
+      internalID: 451830305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6b4df46957814479dc980856becfe1
+      internalID: 428909683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b715c8feb9b89c34aaadb738ad1061c7
+      internalID: -388907588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b9d56ae1ece6c4285903013ce8b7e9
+      internalID: 1747004397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1298c8e6c8c504e87b37634cc08a1c
+      internalID: -414382755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39910e67cb28a945b4e8088d1e95e44
+      internalID: 161421413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359b340b52701f469c361e46fb4b1c8
+      internalID: -185718663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4eb78321756be4383baf2fa1e16649
+      internalID: -698850725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 477.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda2cc265d8d6c94db9c5ac5694ac09d
+      internalID: 181545573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b2b60b611c9f458c4eb4c3c631412
+      internalID: -1343867465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6348c0a9d5ec6cb45abfbb43b6b50897
+      internalID: -1637004719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797b7754aa3a624429c7f6cec7a6453f
+      internalID: 1299948271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f066acb93b7a4aa9664e732f074b7
+      internalID: -1663041627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1566b4a1f57fa3d45871bb5056561671
+      internalID: -59772106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3aa69cf5e0dc646add4d7ca0613efd
+      internalID: -1711254345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4dcee5db83c72428389000d958f26f
+      internalID: 1794889899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d4c1fe7e2966948ab39d55a888f446
+      internalID: 1806891266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79270aee67ec41e49a310418177e2861
+      internalID: -1926751455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faac9bf76d1b9c4b9658670de332165
+      internalID: -1016226779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a193c5cc624df8943bcb28ac606dbfd6
+      internalID: -2053214995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0d86b5c33a88f4b85c487c493d9d21
+      internalID: -20296536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f03668b3f815c43bc8a69e1aeb04b4
+      internalID: 1198241891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_27
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 443.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8ba9f8c68d5274aaf46ae76dfecec6
+      internalID: -763785784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79becd41087c8c14497ba0cf0f5cf27a
+      internalID: 1011661839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e15ef185afc6c45bd243ae79c96bdb
+      internalID: -2104793467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f07201345a25ce4b805ee4ed554cd9b
+      internalID: 355439202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ba302f1e08adf408e4479fd9b3dbc6
+      internalID: 238253462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3900e92bd4defdb43b24fb870ade19d1
+      internalID: -919911699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec062a0774088d43beab2d7663283c0
+      internalID: -3975464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe9e308e475d84a98eb2388d690c3d
+      internalID: -873617492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 410
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fdffcb7730f0f48b7ad705fcc59bcd
+      internalID: -832214975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107ac9c611db192498986e14f69e579a
+      internalID: -812773682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ac9e2c30d57384185aca88bc02d3af
+      internalID: 2008684324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_39
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20edbdc020f76149b0e2806549632ea
+      internalID: -1544253065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc9f0354b7ae704d8b74411c5cbc729
+      internalID: 2056893533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 409.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f7115aefc21c848a0a80bc61941877
+      internalID: -553586668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a977e132504d0e4f8b07bbc01c85a82
+      internalID: 2001746571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c8a963ace256a469b9848b563bffbd
+      internalID: 1162444907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3604b535f823634fb97c07af2e2b518
+      internalID: -1615929390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89398945950346c44a723e05af8925af
+      internalID: 745342671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b755ef552e1d954e8fe4965ee15b1b3
+      internalID: -198694826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16292af5c4db40348bc4ee4a49317d7e
+      internalID: 652473477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691fba815013beb4f94ae6ee7e1bc516
+      internalID: -200210393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d965baa9fe76d4cbbad3211ddb3147
+      internalID: -495928973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d581fc7aaa9ff14b8c2c071d6147f63
+      internalID: 122557588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_51
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9231279aa8e44845aec6919e3af74c6
+      internalID: 508918356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fab973a38fadcf4e9084937756bec77
+      internalID: -804980318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c160c7f7d542f458859f4efc8d2b64
+      internalID: 1908896346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccb7a1bd35cfce41928b90c3e400d7e
+      internalID: -1533500957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 375.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7688acd02d0adde488a3a634be974f0a
+      internalID: 57963218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a167c29f986944ab1fb031985d6253
+      internalID: 1236941504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_57
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c9c63c0463d84dbcc880384548179
+      internalID: 895776785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad3c241e4a3425448efeca163d4397c
+      internalID: -669656100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9155ebf316ca74fb8ea5a83a95136d
+      internalID: 1108679732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98fc087230706342850caf1f5af0d62
+      internalID: -1924829147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d6523a20d11224db01cec458320270
+      internalID: -1649440270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd80914dc12e1724ab41bba02aaa65d8
+      internalID: -1092130115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_63
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2f0819939d59c4abaf12766a5b0d0d
+      internalID: 954286015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba722cf18f15e5445908e54f341f4f46
+      internalID: -427622747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_65
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73547ba96b6a2f4d8a878e082d77581
+      internalID: 442976891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_66
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541ab62d29a099c4db8a6c1eb2516885
+      internalID: -258406679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c35b440c96771149b3494997ac9a122
+      internalID: -1966163746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_68
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce82279a7848c24aa66c3c9d46d591f
+      internalID: -244837772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_69
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 341.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741aba7de95a14941bfe268fe4dd36df
+      internalID: -1904669058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50669cded0ac6f498feacff3cc38eb2
+      internalID: 802106211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9da2eeb15e4c774db156d459abf1946
+      internalID: -1886471177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f032119be052148b645d638b88706f
+      internalID: 181310168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_73
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2950ee04b99ee9c4887ce5144918d0dc
+      internalID: 35324837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df083bf22578d224ab5b07683f9df7a0
+      internalID: 108878914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_75
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a9366ceb94d0469bffd686a136ca8
+      internalID: 740363226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_76
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56418dcbfa21d9245a76c098755b4050
+      internalID: 1057521696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_77
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8bf4a0dcebba848a16c0af7516b275
+      internalID: 848189274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d164db634e0aa42814fd7a21e32084
+      internalID: 685129358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_79
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f820abaeadb1c44a2e159eff18b16d
+      internalID: -1517023748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_80
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed702fec9333b2349843cbd98e2b460e
+      internalID: -1066311718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_81
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a0dd39b6779b4993f66acaffc16c7
+      internalID: -1347065361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c6b352461df146a8611c7df86ef9a
+      internalID: 54345318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_83
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 307.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef091a4dad017054cbdcfc86e41d855f
+      internalID: 370356926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259d9e69c3e09094993170cbcf2df612
+      internalID: -1209905497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_85
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d097c6bd668cad24987eb798156fac82
+      internalID: -391517741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57123df0174555646a1dbacfece44b3d
+      internalID: 706079392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_87
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f22d7ae1a23c4b9fe3881a3e17b54
+      internalID: 1250678697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_88
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8386e6544e5acd443817fb6480735658
+      internalID: 85660107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797bec99573e01e4fa80da71720dbd91
+      internalID: 1386941938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_90
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea06c53df61ea2d47838d855c01172dc
+      internalID: 1933372918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_91
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdf2d347790df641aaf4e56332df0d6
+      internalID: -584210126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc8ecb44c8d8a944a37ab47602cec99
+      internalID: 143332367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591b5251e153a1439d10a5b55eee4e2
+      internalID: 447303939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_94
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c770aff5a57a9c64ab17a44bcc464cc8
+      internalID: -1922615912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_95
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1743ab8b4d699b4db6048a6064ae035
+      internalID: -512784092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_96
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 273.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb941487976e544fbfcb245052b0516
+      internalID: 180986405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ac7331a50d5a048872fa90dd971022
+      internalID: -1417670119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_98
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c857ba16c9de64144880316bdb00cc8c
+      internalID: -9389175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bbd1cac1027b24f836e5458bcf9897
+      internalID: 490840963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_100
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcf2eed8276643429890fad079cc159
+      internalID: 1884149644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa0b34cee2fdea429f7e4f70c67c6c0
+      internalID: 1277990847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_102
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f71ef8db65ba9e40915d2ef35fd2066
+      internalID: -1758622136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_103
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82027fced5f30c841b7496f1b4bc9b30
+      internalID: -533982037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_104
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd380f640147aa544b0cdf9d780cbb29
+      internalID: 495460063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbef03e621024b4eb44898de96f93bb
+      internalID: 795666421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_106
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62a32064dbc3cd4295e5aa5e76481f0
+      internalID: 1701775313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_107
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6e43de7ea36a24fad8e5a726052123
+      internalID: 541442199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_108
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57f81fa7eeaa014e915f632e604c1a1
+      internalID: -2115303786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_109
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811117447ca053d4d9d0095a9ea5278e
+      internalID: -906457601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_110
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 239.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a416e32a2cfc63f46950fa51ba910f8a
+      internalID: 185344053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c620cc2b98e66468d9c14f48df3eb0
+      internalID: 930534859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_113
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 200
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4acd72b49954a74390560dc0a59770f
+      internalID: 1701615177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_114
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ffb9da5eba7694f806b111b0145c98
+      internalID: -88795548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d31efcc7630d88458fd39d6561141f6
+      internalID: 1278024473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_116
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c964f83d8261d74395783ac1cbbf660
+      internalID: -937663114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_117
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9487efbef77a449bb38a26e84e96e7
+      internalID: 939214301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_118
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4287ccb751da148b34dfe4794cdb9f
+      internalID: -1273791836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0739bf727eece74b9d6b1efd14741b1
+      internalID: 1662094898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_120
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18426c2dcc1f6e14a94b465910269567
+      internalID: 1036300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_121
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa189d8de5d16646b1216e0b2810510
+      internalID: -895675885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_122
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a886934b52d3e4980b1937daa075a4
+      internalID: 470413009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_123
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36094c363cc2b544ca97589bbb2d543b
+      internalID: 1872009027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_124
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 205.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba28ed4199e3674684c84cda43339e5
+      internalID: 1038300089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe647490fadd8b40929855e93708088
+      internalID: 760350770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_128
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b88f4ceed303d4a8d986ae2cf2a874
+      internalID: -617581997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac983f5c08590f941b4e15dd0fa5b610
+      internalID: -924093921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_130
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5151c248e9cc9e34e954fde66f059ff2
+      internalID: 614094671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_131
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8db060f2a4260348bb3fbae2b8b0f3a
+      internalID: -1792966257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_132
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a1e5a69ebfd9418250e37b70ad8be
+      internalID: 1481826757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_133
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075ac7e116a5774782558c774b4f871
+      internalID: 1003172107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_134
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3302208a1bbad214394fb7c6276287ff
+      internalID: -2086096085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_135
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b6f50aa58871743abf98e48fee17db
+      internalID: -1302633571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_136
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0599652b30679ea4899f0bc21d8e0f67
+      internalID: 1808541554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e0627ad35bd1140ac58ffe7601873b
+      internalID: -24355745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_138
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 171.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9ce227a760b4145988e3f415ccebf3
+      internalID: 1906157633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd7f9605186d2f499d021f293213d06
+      internalID: 1834686009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_140
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ba0948cdce160459ecf4f2df4913ac
+      internalID: 1773571110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_141
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d2897612fd43b4789ff0161d3d60f8
+      internalID: 525524013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_142
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4c406f31513cc409b6afd786d18dcb
+      internalID: -40503674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_143
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411e5158a57918b4183d2fb2dd16a1d3
+      internalID: 255448262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_144
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6ce85caab3f184da1ae156a2d2004c
+      internalID: -463096385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_145
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285504aa5b0cab74aab3197f0969228a
+      internalID: -803223387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_146
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad8f885d647743409f6230f9a4511a2
+      internalID: 1993204450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_147
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7214646e5ffc1014ea7feca21527abd4
+      internalID: 1669240553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_148
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96e678d15e20a54fae76a51377fe50f
+      internalID: 1636958856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_149
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ac80b2a2fc38340bad1ac4d6f7f2f0
+      internalID: -951858922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_150
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be32234881a98945a8305d8c6056398
+      internalID: -236073815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_151
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 137.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691f51835ed73864ca971e5693ca92ff
+      internalID: -309162930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7232bf9c9d3fb346a519f58407c48f3
+      internalID: 792119808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_153
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e899fe9808506843aff4417af8a8411
+      internalID: -626843296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_154
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d428654d71b4da4e80f2089e55007fb
+      internalID: -1516360085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_155
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1182834e705294286465499d607795
+      internalID: 1245341504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_156
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd19268ce7641f4dab54ba9771e0ae9
+      internalID: -963251763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_157
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528e2494a66814747ae4b5fee6331c38
+      internalID: -1103262234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_158
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623050bca90dd284e982b375ce0b6f3e
+      internalID: 1295631838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_159
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aada908cee85a9d4ba91cdc850558c35
+      internalID: 1352726926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e850627c2fdae48b9537322bc4108c
+      internalID: -934317339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_161
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a22e8c313c6ec84d9adb084698fc6fc
+      internalID: -781375419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_162
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57326c826c94c840b39bca3bfdefce0
+      internalID: 870795899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_163
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b749d169c7ce58d49bbae4ccce5d0568
+      internalID: -1746702678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_164
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27011bcb7081ed94d97eead5dcd1b3bd
+      internalID: -214597591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_165
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 103.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bcf65467efc0649a78d81f3c7f8b37
+      internalID: -110213341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbb946a01a260e4991ca88cb6895037
+      internalID: 1984431612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_167
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d97683de608ad8479371f7f9e7cb7b1
+      internalID: -1367069156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_168
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814f132bccf632c4e8385d068f9355fb
+      internalID: 1621663770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_169
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feef3f988734ee4498e3edb9a16d433c
+      internalID: 660826116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_170
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7dae74d80715c46b752fd5f1565827
+      internalID: -1097539172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_171
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6f0c6c09f07fd4987bc45cfd6ddd75
+      internalID: 165989789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_172
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb23cc4cede2dd43adc60744eede6a7
+      internalID: -2007167215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_173
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e149d8f63beb0447bef2ab16984c8b3
+      internalID: -812898988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257c85165592acf4797fb67b2c973ed5
+      internalID: 2102570710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_175
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 71
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83218b402e3302408f06c06b5e287e5
+      internalID: 1137165312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_176
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a32ac7fd4c8294087fd81b6cd8ce24
+      internalID: -448222434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_177
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7384c4bd691e60429ad5b2a7a798f47
+      internalID: -736695586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_178
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee00dee4ea3a814c9b5900b26b822bb
+      internalID: 1237044936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_179
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 69.86667
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f2235bb7984f47996be95e3652961
+      internalID: 216536209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330123b67a83e994282377d4c34d64d4
+      internalID: -645250570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e13548d08b243469928d1ca46ad87e
+      internalID: -87482719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_182
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 35.866665
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5f0e27e096a5f4e837fd4e7f2cab66
+      internalID: -485515043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_183
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 35.866665
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46291329723209a47810c21646990815
+      internalID: 1031303732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_184
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 35.866665
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eaf08f8a115aa4bb89bfedcead9099
+      internalID: -1249272684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_185
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 35.866665
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50667db2d99722c4284dcd1cfe55d3ea
+      internalID: -1099515719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_186
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 35.866665
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c740c86187ca8d4a834ac3af57f7fa6
+      internalID: 93544772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_187
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 35.866665
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c2b5986fc08b348b22069a878f371a
+      internalID: 116020703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_188
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 35.866665
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc9af1accd4df74c9e501c8d71dcf34
+      internalID: -978708838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_189
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 46
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a16ec411341fce43abf35b00767487b
+      internalID: 1002018558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_190
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 31
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4840289, y: 0.5000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c1bd4610f892a4fb9e6ddcd0db2b01
+      internalID: 869708056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_191
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 35.866665
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f221d3ed8d9c740a5fe012035269ea
+      internalID: -1132704352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_192
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 35.866665
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d01a5cd746502c4fa82d3e07e7ba5b9
+      internalID: -1196912625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_193
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 35.866665
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bb9287f9808b244a38e1be3324f566
+      internalID: -1223130428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8a998f70259d34c9bdbfcfe23cf470
+      internalID: -1738588399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_195
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d400149f142de5b42bdeb6a912655957
+      internalID: -1292813229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_196
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1.8666649
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a657e6d44d91842a6596e4903bd895
+      internalID: 727283857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_197
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1.8666649
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc3e1c77d692834d90d22db2138d419
+      internalID: 181850836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_198
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1.8666649
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa73001ec4b162b4d96aa5c0f9b9ef95
+      internalID: -739881968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_199
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1.8666649
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b6cd77e0db8c744ace0f22dd987c5c
+      internalID: 1634319144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_200
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1.8666649
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558a24f6442248746a28f93444840476
+      internalID: 814434703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_201
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1.8666649
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0a5acf482ac084e96695eb433bcc80
+      internalID: 1589319189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_202
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1.8666649
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09f1bc6c9cbc1942a180abb6d7e161f
+      internalID: -83485866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_203
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e90fac53b67fcc4e8d68e3236cd4802
+      internalID: -1157656548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_204
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cdf2cc0f60a4349ac8aaa274e3e050
+      internalID: 1678683418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_205
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1.8666649
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da7e96b46b8ac34d964ed623c6b8b50
+      internalID: 1339307547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_206
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1.8666649
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64964305fc3f9b84db3718812960f24a
+      internalID: 1036230690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside-Town-D_207
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1.8666649
+        width: 36.57143
+        height: 34.133335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6f0e53ff0438d4094255d9c8cd68b0
+      internalID: -1715307840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Inside-Town-D_0: -1352212162
+      Inside-Town-D_1: 344458485
+      Inside-Town-D_10: 161421413
+      Inside-Town-D_100: 1884149644
+      Inside-Town-D_101: 1277990847
+      Inside-Town-D_102: -1758622136
+      Inside-Town-D_103: -533982037
+      Inside-Town-D_104: 495460063
+      Inside-Town-D_105: 795666421
+      Inside-Town-D_106: 1701775313
+      Inside-Town-D_107: 541442199
+      Inside-Town-D_108: -2115303786
+      Inside-Town-D_109: -906457601
+      Inside-Town-D_11: -185718663
+      Inside-Town-D_110: 185344053
+      Inside-Town-D_111: 930534859
+      Inside-Town-D_112: 68897224
+      Inside-Town-D_113: 1701615177
+      Inside-Town-D_114: -88795548
+      Inside-Town-D_115: 1278024473
+      Inside-Town-D_116: -937663114
+      Inside-Town-D_117: 939214301
+      Inside-Town-D_118: -1273791836
+      Inside-Town-D_119: 1662094898
+      Inside-Town-D_12: -698850725
+      Inside-Town-D_120: 1036300138
+      Inside-Town-D_121: -895675885
+      Inside-Town-D_122: 470413009
+      Inside-Town-D_123: 1872009027
+      Inside-Town-D_124: 1038300089
+      Inside-Town-D_125: 760350770
+      Inside-Town-D_126: -105601505
+      Inside-Town-D_127: -528974646
+      Inside-Town-D_128: -617581997
+      Inside-Town-D_129: -924093921
+      Inside-Town-D_13: 181545573
+      Inside-Town-D_130: 614094671
+      Inside-Town-D_131: -1792966257
+      Inside-Town-D_132: 1481826757
+      Inside-Town-D_133: 1003172107
+      Inside-Town-D_134: -2086096085
+      Inside-Town-D_135: -1302633571
+      Inside-Town-D_136: 1808541554
+      Inside-Town-D_137: -24355745
+      Inside-Town-D_138: 1906157633
+      Inside-Town-D_139: 1834686009
+      Inside-Town-D_14: -1343867465
+      Inside-Town-D_140: 1773571110
+      Inside-Town-D_141: 525524013
+      Inside-Town-D_142: -40503674
+      Inside-Town-D_143: 255448262
+      Inside-Town-D_144: -463096385
+      Inside-Town-D_145: -803223387
+      Inside-Town-D_146: 1993204450
+      Inside-Town-D_147: 1669240553
+      Inside-Town-D_148: 1636958856
+      Inside-Town-D_149: -951858922
+      Inside-Town-D_15: -1637004719
+      Inside-Town-D_150: -236073815
+      Inside-Town-D_151: -309162930
+      Inside-Town-D_152: 792119808
+      Inside-Town-D_153: -626843296
+      Inside-Town-D_154: -1516360085
+      Inside-Town-D_155: 1245341504
+      Inside-Town-D_156: -963251763
+      Inside-Town-D_157: -1103262234
+      Inside-Town-D_158: 1295631838
+      Inside-Town-D_159: 1352726926
+      Inside-Town-D_16: 1299948271
+      Inside-Town-D_160: -934317339
+      Inside-Town-D_161: -781375419
+      Inside-Town-D_162: 870795899
+      Inside-Town-D_163: -1746702678
+      Inside-Town-D_164: -214597591
+      Inside-Town-D_165: -110213341
+      Inside-Town-D_166: 1984431612
+      Inside-Town-D_167: -1367069156
+      Inside-Town-D_168: 1621663770
+      Inside-Town-D_169: 660826116
+      Inside-Town-D_17: -1663041627
+      Inside-Town-D_170: -1097539172
+      Inside-Town-D_171: 165989789
+      Inside-Town-D_172: -2007167215
+      Inside-Town-D_173: -812898988
+      Inside-Town-D_174: 2102570710
+      Inside-Town-D_175: 1137165312
+      Inside-Town-D_176: -448222434
+      Inside-Town-D_177: -736695586
+      Inside-Town-D_178: 1237044936
+      Inside-Town-D_179: 216536209
+      Inside-Town-D_18: -59772106
+      Inside-Town-D_180: -645250570
+      Inside-Town-D_181: -87482719
+      Inside-Town-D_182: -485515043
+      Inside-Town-D_183: 1031303732
+      Inside-Town-D_184: -1249272684
+      Inside-Town-D_185: -1099515719
+      Inside-Town-D_186: 93544772
+      Inside-Town-D_187: 116020703
+      Inside-Town-D_188: -978708838
+      Inside-Town-D_189: 1002018558
+      Inside-Town-D_19: -1711254345
+      Inside-Town-D_190: 869708056
+      Inside-Town-D_191: -1132704352
+      Inside-Town-D_192: -1196912625
+      Inside-Town-D_193: -1223130428
+      Inside-Town-D_194: -1738588399
+      Inside-Town-D_195: -1292813229
+      Inside-Town-D_196: 727283857
+      Inside-Town-D_197: 181850836
+      Inside-Town-D_198: -739881968
+      Inside-Town-D_199: 1634319144
+      Inside-Town-D_2: 2040417021
+      Inside-Town-D_20: 1794889899
+      Inside-Town-D_200: 814434703
+      Inside-Town-D_201: 1589319189
+      Inside-Town-D_202: -83485866
+      Inside-Town-D_203: -1157656548
+      Inside-Town-D_204: 1678683418
+      Inside-Town-D_205: 1339307547
+      Inside-Town-D_206: 1036230690
+      Inside-Town-D_207: -1715307840
+      Inside-Town-D_21: 1806891266
+      Inside-Town-D_22: -1926751455
+      Inside-Town-D_23: -1016226779
+      Inside-Town-D_24: -2053214995
+      Inside-Town-D_25: -20296536
+      Inside-Town-D_26: 1198241891
+      Inside-Town-D_27: -763785784
+      Inside-Town-D_28: 1011661839
+      Inside-Town-D_29: -2104793467
+      Inside-Town-D_3: 1635853577
+      Inside-Town-D_30: 355439202
+      Inside-Town-D_31: 238253462
+      Inside-Town-D_32: -919911699
+      Inside-Town-D_33: -3975464
+      Inside-Town-D_34: -873617492
+      Inside-Town-D_35: -832214975
+      Inside-Town-D_36: -1048504879
+      Inside-Town-D_37: -812773682
+      Inside-Town-D_38: 2008684324
+      Inside-Town-D_39: -1544253065
+      Inside-Town-D_4: -1466628188
+      Inside-Town-D_40: 2056893533
+      Inside-Town-D_41: -553586668
+      Inside-Town-D_42: 2001746571
+      Inside-Town-D_43: 1162444907
+      Inside-Town-D_44: -1615929390
+      Inside-Town-D_45: 745342671
+      Inside-Town-D_46: -198694826
+      Inside-Town-D_47: 652473477
+      Inside-Town-D_48: -200210393
+      Inside-Town-D_49: -495928973
+      Inside-Town-D_5: 451830305
+      Inside-Town-D_50: 122557588
+      Inside-Town-D_51: 508918356
+      Inside-Town-D_52: -804980318
+      Inside-Town-D_53: 1908896346
+      Inside-Town-D_54: -1533500957
+      Inside-Town-D_55: 57963218
+      Inside-Town-D_56: 1236941504
+      Inside-Town-D_57: 895776785
+      Inside-Town-D_58: -669656100
+      Inside-Town-D_59: 1108679732
+      Inside-Town-D_6: 428909683
+      Inside-Town-D_60: -1924829147
+      Inside-Town-D_61: -1649440270
+      Inside-Town-D_62: -1092130115
+      Inside-Town-D_63: 954286015
+      Inside-Town-D_64: -427622747
+      Inside-Town-D_65: 442976891
+      Inside-Town-D_66: -258406679
+      Inside-Town-D_67: -1966163746
+      Inside-Town-D_68: -244837772
+      Inside-Town-D_69: -1904669058
+      Inside-Town-D_7: -388907588
+      Inside-Town-D_70: 802106211
+      Inside-Town-D_71: -1886471177
+      Inside-Town-D_72: 181310168
+      Inside-Town-D_73: 35324837
+      Inside-Town-D_74: 108878914
+      Inside-Town-D_75: 740363226
+      Inside-Town-D_76: 1057521696
+      Inside-Town-D_77: 848189274
+      Inside-Town-D_78: 685129358
+      Inside-Town-D_79: -1517023748
+      Inside-Town-D_8: 1747004397
+      Inside-Town-D_80: -1066311718
+      Inside-Town-D_81: -1347065361
+      Inside-Town-D_82: 54345318
+      Inside-Town-D_83: 370356926
+      Inside-Town-D_84: -1209905497
+      Inside-Town-D_85: -391517741
+      Inside-Town-D_86: 706079392
+      Inside-Town-D_87: 1250678697
+      Inside-Town-D_88: 85660107
+      Inside-Town-D_89: 1386941938
+      Inside-Town-D_9: -414382755
+      Inside-Town-D_90: 1933372918
+      Inside-Town-D_91: -584210126
+      Inside-Town-D_92: 143332367
+      Inside-Town-D_93: 447303939
+      Inside-Town-D_94: -1922615912
+      Inside-Town-D_95: -512784092
+      Inside-Town-D_96: 180986405
+      Inside-Town-D_97: -1417670119
+      Inside-Town-D_98: -9389175
+      Inside-Town-D_99: 490840963
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
