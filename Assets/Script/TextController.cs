@@ -10,12 +10,15 @@ public class TextController : MonoBehaviour
     public Text C;
     public int CoinCount;
     public Text timer;
-    public float time;
+    float minute;
+    float second;
     // Start is called before the first frame update
     void Start()
     {
         EnemyCount = 0;
         CoinCount = 0;
+        minute = 0;
+        second = 0;
     }
 
     // Update is called once per frame
@@ -23,5 +26,12 @@ public class TextController : MonoBehaviour
     {
        E.GetComponent<Text>().text = EnemyCount + "";
        C.GetComponent<Text>().text = CoinCount + "";
+        second += Time.deltaTime;
+        if(second >= 60)
+        {
+            minute++;
+            second = 0;
+        }
+        timer.GetComponent<Text>().text = minute.ToString("00") + ":" + second.ToString("00");
     }
 }

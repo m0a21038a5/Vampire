@@ -12,6 +12,7 @@ TagManager:
   - HP
   - Enemy
   - EnemyManager
+  - Axe
   layers:
   - Default
   - TransparentFX

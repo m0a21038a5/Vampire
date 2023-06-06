@@ -865,9 +865,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 324
-        y: 409.86667
-        width: 36.57143
-        height: 34.133335
+        y: 411
+        width: 64
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -877,27 +877,6 @@ TextureImporter:
       bones: []
       spriteID: 107ac9c611db192498986e14f69e579a
       internalID: -812773682
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Inside-Town-D_38
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 409.86667
-        width: 36.57143
-        height: 34.133335
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 59ac9e2c30d57384185aca88bc02d3af
-      internalID: 2008684324
       vertices: []
       indices: 
       edges: []

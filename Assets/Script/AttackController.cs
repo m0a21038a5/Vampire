@@ -8,12 +8,14 @@ public class AttackController : MonoBehaviour
     GameObject whip_R;
     GameObject whip_L;
     [SerializeField]
-    float AttackCount;
+    float WhipCount;
     [SerializeField]
     float CollisionCount;
     [SerializeField]
     public string state;
-    float firstCount;
+    float firstWhipCount;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -21,7 +23,7 @@ public class AttackController : MonoBehaviour
         whip_R.SetActive(false);
         whip_L = GameObject.FindGameObjectWithTag("Whip_L");
         whip_L.SetActive(false);
-        firstCount = AttackCount;
+        firstWhipCount = WhipCount;
         state = "normal";
         A = GameObject.FindGameObjectWithTag("Player").GetComponent<Animate>();
     }
@@ -29,13 +31,13 @@ public class AttackController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        AttackCount -= Time.deltaTime;
+        WhipCount -= Time.deltaTime;
 
         switch(state)
         {
             case "normal":
 
-                if (AttackCount < 0)
+                if (WhipCount < 0)
                 {
                     if (A.right == true)
                     {
@@ -45,15 +47,15 @@ public class AttackController : MonoBehaviour
                     {
                         whip_L.SetActive(true);
                     }
-                    state = "Attack";
-                    AttackCount = CollisionCount;
+                    state = "Whip";
+                    WhipCount = CollisionCount;
                 }
 
                 break;
 
-            case "Attack":
+            case "Whip":
 
-                if(AttackCount < 0)
+                if(WhipCount < 0)
                 {
                   if(whip_R.activeSelf == true)
                     {
@@ -64,7 +66,7 @@ public class AttackController : MonoBehaviour
                         whip_L.SetActive(false);
                     }
                     state = "normal";
-                    AttackCount = firstCount;
+                    WhipCount = firstWhipCount;
                 }
 
                 break;
