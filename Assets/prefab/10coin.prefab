@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 851787132698195940}
   - component: {fileID: 8792694590219516515}
   - component: {fileID: 9151239847446241867}
+  - component: {fileID: 6905333674458001171}
   m_Layer: 0
   m_Name: 10coin
   m_TagString: Untagged
@@ -73,7 +74,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -87482719, guid: 6cc5e031c3757d64da8be074a4490fee, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -111,3 +112,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.32, y: 0.35}
   m_EdgeRadius: 0
+--- !u!114 &6905333674458001171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 379546862338439964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa331cb0f3fdbb74ab55fc8d3bfffc99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

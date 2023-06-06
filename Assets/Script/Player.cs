@@ -11,6 +11,8 @@ public class Player : MonoBehaviour
 
     Animate animate;
 
+    public bool damage;
+
     // Start is called before the first frame update
     private void Awake()
     {
@@ -30,5 +32,13 @@ public class Player : MonoBehaviour
         moveVector *= speed;
 
         r2D.velocity = moveVector;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.tag == "Enemy")
+        {
+            damage = true;
+        }
     }
 }

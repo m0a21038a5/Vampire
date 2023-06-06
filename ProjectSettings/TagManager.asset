@@ -8,6 +8,10 @@ TagManager:
   - Whip
   - GameManager
   - Whip_L
+  - Level
+  - HP
+  - Enemy
+  - EnemyManager
   layers:
   - Default
   - TransparentFX
