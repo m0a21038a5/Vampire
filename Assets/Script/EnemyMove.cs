@@ -45,7 +45,7 @@ public class EnemyMove : MonoBehaviour
             HP -= 30;
         }
 
-        if(other.gameObject.tag == "Axe")
+        if(other.gameObject.tag == "Axe" || other.gameObject.tag == "Book")
         {
             HP -= 40;
         }

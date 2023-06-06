@@ -13,6 +13,8 @@ TagManager:
   - Enemy
   - EnemyManager
   - Axe
+  - Master
+  - Book
   layers:
   - Default
   - TransparentFX
